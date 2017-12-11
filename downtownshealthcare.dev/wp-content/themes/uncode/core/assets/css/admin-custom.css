@@ -621,7 +621,7 @@
 #Font-size: 50px
 ----------------------------------------------------------*/
 .fontsize-155944 { font-size: 50px; }
-@media (max-width: 959px) { .fontsize-155944 { font-size: 33.3333333333px; }}
+@media (max-width: 959px) { .fontsize-155944 { font-size: 33.333333333333px; }}
 @media (max-width: 320px) { .fontsize-155944 { font-size: 28px; }}
 
 /*----------------------------------------------------------
@@ -636,7 +636,7 @@
 #Font-size: 100px
 ----------------------------------------------------------*/
 .fontsize-445851 { font-size: 100px; }
-@media (max-width: 959px) { .fontsize-445851 { font-size: 66.6666666667px; }}
+@media (max-width: 959px) { .fontsize-445851 { font-size: 66.666666666667px; }}
 @media (max-width: 569px) { .fontsize-445851 { font-size: 35px; }}
 @media (max-width: 320px) { .fontsize-445851 { font-size: 28px; }}
 
@@ -644,7 +644,7 @@
 #Font-size: 125px
 ----------------------------------------------------------*/
 .fontsize-739966 { font-size: 125px; }
-@media (max-width: 959px) { .fontsize-739966 { font-size: 83.3333333333px; }}
+@media (max-width: 959px) { .fontsize-739966 { font-size: 83.333333333333px; }}
 @media (max-width: 569px) { .fontsize-739966 { font-size: 35px; }}
 @media (max-width: 320px) { .fontsize-739966 { font-size: 28px; }}
 
