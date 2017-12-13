@@ -18,6 +18,17 @@ add_action('wp_enqueue_scripts', 'theme_enqueue_styles');
 
 /*Write here your own functions */
 
+add_action('init', 'customRSS');
+function customRSS(){
+        add_feed('feedname', 'customRSSFunc');
+}
+
+function customRSSFunc(){
+        get_template_part('rss', 'feedname');
+}
+
+
+
 function cptui_register_my_cpts() {
 
 	/**
