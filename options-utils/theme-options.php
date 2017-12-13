@@ -25,47 +25,47 @@
 			),
 			array(
 				'id'          =&gt; 'uncode_services_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Services</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Services</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_team_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Team</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Team</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_events_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Events</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Events</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_specials_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Specials</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Specials</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_recommendations_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Recommendations</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Recommendations</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_press_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Press</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Press</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_careers_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Careers</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Careers</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_locations_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Locations</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Locations</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_classes_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Classes</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Classes</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_studies_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Studies</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Studies</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_conditions_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Conditions</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-paper"></i> Conditions</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_post_index_section',
@@ -81,47 +81,47 @@
 			),
 			array(
 				'id'          =&gt; 'uncode_services_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Services</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_team_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Team</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_events_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Events</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_specials_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Specials</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_recommendations_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Recommendations</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_press_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Press</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_careers_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Careers</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_locations_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Locations</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_classes_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Classes</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_studies_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Studies</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_conditions_index_section',
-				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Authors</span>', 'theme-options.php' )
+				'title'       =&gt; esc_attr__( '<span class="smaller"><i class="fa fa-archive2"></i> Conditions</span>', 'theme-options.php' )
 			),
 			array(
 				'id'          =&gt; 'uncode_author_index_section',
